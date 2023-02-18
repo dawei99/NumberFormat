@@ -12,5 +12,6 @@
             "NumberFormat\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "license": "MIT"
 }
