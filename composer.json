@@ -1,0 +1,16 @@
+{
+    "name": "dawei/number-format",
+    "description": "一个处理数字报",
+    "authors": [
+        {
+            "name": "DaWei",
+            "email": "811055695@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "NumberFormat\\": "src/"
+        }
+    },
+    "require": {}
+}
