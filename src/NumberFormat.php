@@ -1,7 +1,7 @@
 <?php
 namespace NumberFormat;
 class NumberFormat {
-    public function (int $num) : string {
+    public function convert(int $num) : string {
         return (string) $num;
     }
 }
